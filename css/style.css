@@ -25,7 +25,7 @@
 
 /* First Section */
 .FirstSection {
-    clear: both;
+    /* clear: both; */
     background-color: rgb(245, 245, 245);
     background-size: cover;
     z-index: 1;
