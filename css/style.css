@@ -88,6 +88,12 @@
 .ImgNewProd:hover {
     transform: scale(1.1);
 }
+.ExploreMore {
+    float: right;
+}
+.ExploreMore:hover {
+    text-decoration: none;
+}
 
 
 
