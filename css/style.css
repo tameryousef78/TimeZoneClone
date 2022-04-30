@@ -41,6 +41,12 @@
     font-size: 85px;    
 }
 
+.RolexVideo {
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+}
+
 .btn {
     border-radius: 5px;
     font-family: 'Segoe UI', Tahoma;
