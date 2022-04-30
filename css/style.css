@@ -82,6 +82,8 @@
     display: flex;
     margin: auto;
     transition: transform 1s;
+    width: 100%;
+    height: 75%;
 }
 .ImgNewProd:hover {
     transform: scale(1.1);
