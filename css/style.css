@@ -111,6 +111,8 @@
 .ImgPopularItems {
     display: flex;
     position: relative;
+    width: 75%;
+    height: 75%;
     margin: auto;
     transition: transform 1s;
 }
