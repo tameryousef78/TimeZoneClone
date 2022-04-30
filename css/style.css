@@ -106,8 +106,9 @@
     display: block;
     margin: auto;
     border: none;
+    border-radius: 5px;
     outline: 0;
-    padding: 12px;
+    padding: 10px;
     color: white;
     background-color: rgb(255, 0, 0);
     text-align: center;
