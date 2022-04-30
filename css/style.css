@@ -81,6 +81,10 @@
 .SecondSection img {
     display: flex;
     margin: auto;
+    transition: transform 1s;
+}
+.ImgNewProd:hover {
+    transform: scale(1.1);
 }
 
 
@@ -106,6 +110,10 @@
     display: flex;
     position: relative;
     margin: auto;
+    transition: transform 1s;
+}
+.ImgPopularItems:hover {
+    transform: scale(1.1);
 }
 
 .ButtonPopularItems {
